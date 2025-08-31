@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Redwood Cutting Board",
+    "species": "Coast Redwood",
+    "location": "Mendocino County",
+    "dimensions": "18\" × 12\" × 1.5\"",
+    "image": "/redwood-cutting-board-handcrafted-functional-wood.png",
+    "externalLink": "https://shop.example.com/redwood-cutting-board"
+  },
+  {
+    "title": "Oak Serving Tray",
+    "species": "Valley Oak",
+    "location": "Sonoma County",
+    "dimensions": "20\" × 14\" × 2\"",
+    "image": "/oak-serving-tray-artisan-crafted-utilitarian-pie.png",
+    "externalLink": "https://shop.example.com/oak-serving-tray"
+  },
+  {
+    "title": "Walnut Salad Bowls",
+    "species": "California Walnut",
+    "location": "Napa Valley",
+    "dimensions": "8\" diameter × 3\" deep (set of 4)",
+    "image": "/walnut-salad-bowls-set-handmade-functional-wood.png",
+    "externalLink": "https://shop.example.com/walnut-salad-bowls"
+  },
+  {
+    "title": "Maple Spoon Set",
+    "species": "Big Leaf Maple",
+    "location": "Humboldt County",
+    "dimensions": "Various sizes, 6-12\" length",
+    "image": "/maple-spoon-set-carved-wooden-utensils-kitchen.png",
+    "externalLink": "https://shop.example.com/maple-spoon-set"
+  },
+  {
+    "title": "Cedar Jewelry Box",
+    "species": "Port Orford Cedar",
+    "location": "Mendocino County",
+    "dimensions": "10\" × 6\" × 4\"",
+    "image": "/cedar-jewelry-box-handcrafted-storage-organiz.png",
+    "externalLink": "https://shop.example.com/cedar-jewelry-box"
+  },
+  {
+    "title": "Redwood Candle Holders",
+    "species": "Coast Redwood",
+    "location": "Mendocino County",
+    "dimensions": "4\" × 4\" × 6\" (set of 3)",
+    "image": "/redwood-candle-holders-set-rustic-home-decor.png",
+    "externalLink": "https://shop.example.com/redwood-candle-holders"
+  }
+]

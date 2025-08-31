@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "redwood-vessel-01",
+    "title": "Redwood Vessel",
+    "year": 2024,
+    "species": "Coast Redwood",
+    "location": "Mendocino County",
+    "dimensions": "18\" H × 12\" W × 12\" D",
+    "finish": "Natural oil finish",
+    "status": "Available",
+    "images": [
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200"
+    ],
+    "alt": "Sculptural redwood vessel with organic flowing form"
+  },
+  {
+    "slug": "oak-sculpture-02",
+    "title": "Oak Embrace",
+    "year": 2024,
+    "species": "Valley Oak",
+    "location": "Sonoma County",
+    "dimensions": "24\" H × 16\" W × 14\" D",
+    "finish": "Hand-rubbed wax finish",
+    "status": "Reserved",
+    "images": [
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200"
+    ],
+    "alt": "Sculptural oak piece with flowing, embracing curves"
+  },
+  {
+    "slug": "walnut-form-03",
+    "title": "Walnut Flow",
+    "year": 2023,
+    "species": "California Walnut",
+    "location": "Napa Valley",
+    "dimensions": "20\" H × 14\" W × 10\" D",
+    "finish": "Tung oil finish",
+    "status": "Sold",
+    "images": [
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200"
+    ],
+    "alt": "Sculptural walnut form with smooth flowing lines"
+  }
+]
